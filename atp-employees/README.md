@@ -51,7 +51,7 @@ These samples show you how to connect to an ATP database from Java.
    
 4. Access to an ATP instance and its security credentials (Oracle ATP Wallet)
     * [Download Client Credentials (Wallets)](https://docs.oracle.com/en/cloud/paas/autonomous-database/adbsa/connect-download-wallet.html#GUID-B06202D2-0597-41AA-9481-3B174F75D4B1 "ATP Wallet doc")
-    * Your database has the  [EMPLOYEES table](../master/sql-scripts/table-setup.sql) with some [sample data](../master/sql-scripts/sample-data.sql) to query.
+    * Your database has the  [EMPLOYEES table](../main/sql-scripts/table-setup.sql) with some [sample data](../main/sql-scripts/sample-data.sql) to query.
 
 
   

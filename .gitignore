@@ -1,3 +1,7 @@
 atp-employees/.idea
 atp-employees/target
 atp-employees/.gitignore
+.idea/workspace.xml
+.idea/java-samples.iml
+.idea/modules.xml
+.idea/vcs.xml
